@@ -92,4 +92,4 @@ community-events/
 ---
 
 ## 📸 Screenshot
-
+![Image Alt](https://github.com/pranjalihajare/Local-Community-Events/blob/main/Screenshot%20from%202025-09-09%2020-29-26.png?raw=true)
